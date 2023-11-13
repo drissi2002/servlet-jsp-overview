@@ -1,0 +1,19 @@
+
+i
+java:S1192"GDefine a constant instead of duplicating this literal "houcem" 3 times.(ËÒ©­üÿÿÿÿ8ÛËÅÂ¼1
+q
+java:S20956"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ô£Çàıÿÿÿÿ8™úÂÂ¼1
+q
+java:S2095."OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ô£Çàıÿÿÿÿ8›úÂÂ¼1
+J
+java:S4925"-Remove this "Class.forName()", it is useless.(›‡ªœ8ªúÂÂ¼1
+K
+java:S2115")Add password protection to this database.(ËÒ©­üÿÿÿÿ8®úÂÂ¼1
+K
+java:S2115")Add password protection to this database.(ËÒ©­üÿÿÿÿ8²úÂÂ¼1
+L	java:S106""+Replace this use of System.out by a logger.(µâ£äşÿÿÿÿ8’ÊÁÂ¼1
+G	java:S106A"+Replace this use of System.err by a logger.(Îã­Ã8‹ÊÁÂ¼1
+L	java:S106B"+Replace this use of System.err by a logger.(íŠÚçüÿÿÿÿ8ŒÊÁÂ¼1
+L	java:S106C"+Replace this use of System.err by a logger.(×ãìüÿÿÿÿ8ÊÁÂ¼1
+L	java:S106D"+Replace this use of System.err by a logger.(îöÁÑøÿÿÿÿ8ÊÁÂ¼1
+G	java:S106G"+Replace this use of System.out by a logger.(†ÚÂà8ËúÂÂ¼1
